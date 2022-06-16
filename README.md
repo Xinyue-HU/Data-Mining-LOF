@@ -1,7 +1,7 @@
 # Local Outlier Factor (LOF) for Outlier Detection
 
 The mini project focus on the Outlier Detection task which is one of the most important topics in fundamental data mining. 
-I use LOF (local outlier factor, in density- based model) as a key indicator to analysis the real-world data sets.
+I use LOF (local outlier factor, in density-based model) as a key indicator to analysis the real-world data sets.
 I found the two awesome data sets, both from "Unsupervised Anomaly Detection Dataverse" at Harvard (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OPQMVF).
 
 Data set 1 (pen-global-unsupervised): The whole data set contains pen-local-unsupervised and pen-global-unsupervised, and pen-local-unsupervised is not included in this project. 
